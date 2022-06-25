@@ -10,7 +10,4 @@ class File
     {
         return file_get_contents($path, true);;
     }
-    
-
-    
 }

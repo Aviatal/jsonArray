@@ -20,12 +20,3 @@ $list = json_decode($listJS, true);
 $categories = $cat->getCategory($list);
 
 $trees = $cat->arrayWrite($tree, $categories);
-
-
-
-
-
-
-
-
-

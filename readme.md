@@ -5,7 +5,7 @@ The Program was made as a recruitment task. It decodes .json file and adds 'name
 
 ## Technologies
 Project is created with:
-PHP 8.1.6
+PHP 8.1.6,
 Json
 
 ## Instructions
